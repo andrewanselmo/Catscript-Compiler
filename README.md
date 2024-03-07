@@ -1,6 +1,22 @@
-## DESCRIPTION 
+NOTE: Due to university policy, I cannot publish source code but can share upon request.
 
-Hello there
+# DESCRIPTION 
+
+For my senior capstone at MSU I developed a compiler for the low level programming language CatScript. For each of the rules found in the CatScript grammar below we were tasked with implementing methods to tokenize, parse, evaluate, and then compile. We were provided wiith a web interface to interact directly with the CatScript compiler so you can see each of the processes in real time. 
+
+Above you will find my capstone potfolio where I discuss my personal CatScript documentation, design patterns, UML diagrams, and design trade offs for the project. 
+
+# OUTCOMES 
+
+- Learned how code becomes executable instructions through tokenization, parsing, evaluation, and compilation.
+- Learned how to formally define a programming language with grammar.
+- Enhanced testing abilites through writing Java unit tests for a classmates compiler.
+- Learned how to write documentation for a programming language.
+- Learned to create UML diagrams.
+
+# VIDEO DEMO 
+https://youtu.be/MdFMTVmyl3E
+
 
 ### CatScript Grammar
 
